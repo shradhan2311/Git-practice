@@ -6,6 +6,11 @@ public class task {
 		// TODO Auto-generated method stub
 
 		System.out.println("hiiiii");
+		
 	}
 
+	public void m1()
+	{
+		System.out.println("helloo");
+	}
 }
